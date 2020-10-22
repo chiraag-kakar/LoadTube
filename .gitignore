@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+
+extractor.spec
+'extractor.spec
+
+myvenv
 # Distribution / packaging
 .Python
 build/
