@@ -1,4 +1,4 @@
-## loadtube
+## LoadTube
 
 
 * LoadTube is a desktop application using which users can download youtube content just by pasting the youtube link.
@@ -10,7 +10,6 @@
 
 
 
-```
+
 Developed with ❤ and Python by [Chiraag Kakar](https://imchiraag.pythonanywhere.com), 2020
-```
 
